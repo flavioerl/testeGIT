@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Minha Página Teste GIT</title>
+    <title>Minha Página Teste GIT 1</title>
 </head>
 <body>
     <!-- Página de teste do GIT -->
